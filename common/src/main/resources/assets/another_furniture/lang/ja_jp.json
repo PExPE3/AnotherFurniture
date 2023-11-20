@@ -7,9 +7,9 @@
     "subtitles.block.another_furniture.curtain.use": "カーテンが動いた",
     "subtitles.item.another_furniture.furniture_hammer.use": "木づちが打ちつけられる",
 	
-	"entity.another_furniture.seat": "腰掛け",
+    "entity.another_furniture.seat": "腰掛け",
 	
-	"container.another_furniture.drawer": "たんす",
+    "container.another_furniture.drawer": "たんす",
     "item.another_furniture.furniture_hammer": "木づち",
 	
     "block.another_furniture.oak_chair": "オークの椅子",
@@ -21,7 +21,7 @@
     "block.another_furniture.mangrove_chair": "マングローブの椅子",
     "block.another_furniture.crimson_chair": "真紅の椅子",
     "block.another_furniture.warped_chair": "歪んだ椅子",
-	"block.another_furniture.bamboo_chair": "竹の椅子",
+    "block.another_furniture.bamboo_chair": "竹の椅子",
     "block.another_furniture.cherry_chair": "サクラの椅子",
 	
     "block.another_furniture.oak_shelf": "オークの棚",
@@ -33,7 +33,7 @@
     "block.another_furniture.mangrove_shelf": "マングローブの棚",
     "block.another_furniture.crimson_shelf": "真紅の棚",
     "block.another_furniture.warped_shelf": "歪んだ棚",
-	"block.another_furniture.bamboo_shelf": "竹の棚",
+    "block.another_furniture.bamboo_shelf": "竹の棚",
     "block.another_furniture.cherry_shelf": "サクラの棚",
 	
     "block.another_furniture.oak_table": "オークのテーブル",
@@ -45,7 +45,7 @@
     "block.another_furniture.mangrove_table": "マングローブのテーブル",
     "block.another_furniture.crimson_table": "真紅のテーブル",
     "block.another_furniture.warped_table": "歪んだテーブル",
-	"block.another_furniture.bamboo_table": "竹のテーブル",
+    "block.another_furniture.bamboo_table": "竹のテーブル",
     "block.another_furniture.cherry_table": "サクラのテーブル",
 	
     "block.another_furniture.oak_shutter": "オークの雨戸",
@@ -57,7 +57,7 @@
     "block.another_furniture.mangrove_shutter": "マングローブの雨戸",
     "block.another_furniture.crimson_shutter": "真紅の雨戸",
     "block.another_furniture.warped_shutter": "歪んだ雨戸",
-	"block.another_furniture.bamboo_shutter": "竹の雨戸",
+    "block.another_furniture.bamboo_shutter": "竹の雨戸",
     "block.another_furniture.cherry_shutter": "サクラの雨戸",
 	
     "block.another_furniture.oak_planter_box": "オークのフラワーボックス",
@@ -69,7 +69,7 @@
     "block.another_furniture.mangrove_planter_box": "マングローブのフラワーボックス",
     "block.another_furniture.crimson_planter_box": "真紅のフラワーボックス",
     "block.another_furniture.warped_planter_box": "歪んだフラワーボックス",
-	"block.another_furniture.bamboo_flower_box": "竹のフラワーボックス",
+    "block.another_furniture.bamboo_flower_box": "竹のフラワーボックス",
     "block.another_furniture.cherry_flower_box": "サクラのフラワーボックス",
 
     "block.another_furniture.oak_bench": "オークのベンチ",
@@ -81,7 +81,7 @@
     "block.another_furniture.mangrove_bench": "マングローブのベンチ",
     "block.another_furniture.crimson_bench": "真紅のベンチ",
     "block.another_furniture.warped_bench": "歪んだベンチ",
-	"block.another_furniture.bamboo_bench": "竹のベンチ",
+    "block.another_furniture.bamboo_bench": "竹のベンチ",
     "block.another_furniture.cherry_bench": "サクラのベンチ",
 
     "block.another_furniture.spruce_drawer": "トウヒの引き出し",
@@ -92,7 +92,7 @@
     "block.another_furniture.mangrove_drawer": "マングローブの引き出し",
     "block.another_furniture.crimson_drawer": "真紅の引き出し",
     "block.another_furniture.warped_drawer": "歪んだ引き出し",
-	"block.another_furniture.bamboo_drawer": "竹の引き出し",
+    "block.another_furniture.bamboo_drawer": "竹の引き出し",
     "block.another_furniture.cherry_drawer": "サクラの引き出し",
 
     "block.another_furniture.white_sofa": "白色のソファ",
@@ -162,7 +162,7 @@
     "block.another_furniture.green_lamp": "緑色のランプ",
     "block.another_furniture.red_lamp": "赤色のランプ",
     "block.another_furniture.black_lamp": "黒色のランプ",
-	"block.another_furniture.lamp_connector": "Lamp Connector",
+    "block.another_furniture.lamp_connector": "ランプコネクタ",
 
     "block.another_furniture.white_tall_stool": "白色のトールスツール",
     "block.another_furniture.orange_tall_stool": "橙色のトールスツール",
